@@ -1,4 +1,4 @@
-# Princípios de Orientação à Objetos em Javascript
+# Princípios de Orientação a Objetos em Javascript
 
 Super recomendo a leitura deste exemplar. Não o considero como um livro básico, 
 já que ensina a fundo conceitos importantes em Javascript e que são totalmente 
